@@ -15,3 +15,9 @@
 
 ## GET DATA BY ID
 <img width="1917" height="1046" alt="image" src="https://github.com/user-attachments/assets/6dd74d54-957d-4f6c-b3e2-19f3c41947ba" />
+
+## UPDATE KOMIK
+<img width="1917" height="1040" alt="image" src="https://github.com/user-attachments/assets/a8513446-17c1-484b-9e24-574d3e68647b" />
+
+## DELETE KOMIK
+<img width="1917" height="1037" alt="image" src="https://github.com/user-attachments/assets/70aaaadf-15bc-40e1-ac51-3c7469385746" />
