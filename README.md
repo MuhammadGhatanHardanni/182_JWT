@@ -9,3 +9,9 @@
 
 ## MEMBUAT KOMIK
 <img width="1917" height="1043" alt="image" src="https://github.com/user-attachments/assets/81f096b2-ca69-49e8-b341-a385c3e0062a" />
+
+## GET DATA KOMIK
+<img width="1917" height="1037" alt="image" src="https://github.com/user-attachments/assets/c75f4df1-d382-455b-b5d6-b5be8b3e8c67" />
+
+## GET DATA BY ID
+<img width="1917" height="1046" alt="image" src="https://github.com/user-attachments/assets/6dd74d54-957d-4f6c-b3e2-19f3c41947ba" />
